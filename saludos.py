@@ -1,2 +1,2 @@
-saludos="hola curso"
+saludos="hola cursooo"
 print(saludos)
